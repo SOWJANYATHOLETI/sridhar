@@ -1,0 +1,42 @@
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+}
+.semi-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.speed {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #94a3b8;
+}
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 8px;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 10px;
+}
+.button2 {
+  font-family: 'Roboto';
+  font-size: 8px;
+  border-width: 1px;
+  border-color: #94a3b8;
+  background-color: transparent;
+  padding: 10px;
+}
